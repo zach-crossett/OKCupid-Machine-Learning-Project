@@ -3,7 +3,7 @@
 
  The data used (included as a compressed CSV file) has a record of ~60k users.
 
- An overview of OkCupid can be found on their homepage:  https://www.okcupid.com/
+ An overview of OkCupid can be found on their company homepage:  https://www.okcupid.com/
 
 
  
